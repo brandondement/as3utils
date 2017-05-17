@@ -1,4 +1,3 @@
-kablUI
+as3utils
 ======
-Test change
-An ActionScript3 UI framework that supports MXML based layouts
+A suite of as3 utilities, including an MXML-based UI framework
